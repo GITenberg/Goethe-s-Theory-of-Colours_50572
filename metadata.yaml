@@ -1,4 +1,5 @@
 _repo: Goethe-s-Theory-of-Colours_50572
+_version: 0.1.0
 contributor:
   translator:
     agent_name: Eastlake, Sir Charles Lock
@@ -7,6 +8,9 @@ contributor:
     gutenberg_agent_id: '41358'
     url: http://www.gutenberg.org/2009/agents/41358
     wikipedia: https://en.wikipedia.org/wiki/Charles_Lock_Eastlake
+covers:
+- cover_type: archival
+  image_path: 50572-h/images/cover.jpg
 creator:
   author:
     agent_name: Goethe, Johann Wolfgang von
@@ -19,6 +23,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/586
     wikipedia: http://en.wikipedia.org/wiki/Johann_Wolfgang_von_Goethe
 description: 'Translation of: Zur Farbenlehre'
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/50572#Goethe-s-Theory-of-Colours
 gutenberg_issued: '2015-11-29'
 gutenberg_type: Text
 identifiers:
